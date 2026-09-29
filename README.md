@@ -3,9 +3,6 @@
 On my first venture into game development, I created a unique game using JavaScript, HTML, CSS, and the Dijkstra algorithm guided by a YouTube tutorial.<br><br>
 
 Live Demo: https://tuantranquang0607.github.io/Pacman-Project/<br>
-Source: https://youtu.be/GXlckaGr0Eo?si=sDRkd0VmS34F9A-z <br>
-Source Code: https://github.com/servetgulnaroglu/pacman-js
-
 
 # 💫 About Me:
 I am an international student in Canada, majoring in Game Development. Besides, I dabble in Web Development and digital art. Feel free to contact me for work or anything else.<br>
